@@ -1,4 +1,4 @@
-# <img src="src/main/resources/static/images/logo-siw.png" alt="SIW Ricette Logo" width="40" height="40" style="vertical-align: bottom;" /> SIW Ricette
+# <img src="siw-ricette/src/main/resources/static/images/logo-siw.png" alt="SIW Ricette Logo" width="40" height="40" style="vertical-align: bottom;" /> SIW Ricette
 
 Benvenuto in **SIW Ricette**, una piattaforma web dedicata alla condivisione e alla scoperta di ricette culinarie. Questo progetto è stato sviluppato come applicazione web completa, gestendo l'intero ciclo di vita del dato, dalla persistenza alla presentazione all'utente finale.
 
